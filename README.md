@@ -1,1 +1,1 @@
-# scratch
+# for java code scratch
